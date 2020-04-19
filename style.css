@@ -1,0 +1,14 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div{
+
+    background-color: teal;
+    width: auto;
+    height: 200;
+}
